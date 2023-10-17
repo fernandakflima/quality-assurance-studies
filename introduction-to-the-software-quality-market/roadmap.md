@@ -1,4 +1,5 @@
 # Learning Roadmap for Software Quality
+
 - Fundamentals of Software Quality
 - Fundamentals of Web applications and Networks
 - CI/CD
@@ -10,6 +11,7 @@
 - Software Processes and life cycle
 
 ## Software Quality fundamentals
+
 - Quality definitions
 - Prioritization and testing techniques
 - Test plan and documentation
@@ -19,17 +21,20 @@
 - Metrics
 
 ## Software processes and life cycle
+
 - Software process models
 - Agile software development
 - Tests within the agile model
 
 ## Fundamentals of Web Applications and Networks
+
 - Network fundamentals
 - Internet architecture and important protocols
 - Operation of webpages
 - Languages ​​and technologies
 
 ## Fundamentals of Computer Science
+
 - Representation and data structure
 - Compilation x Interpretation
 - Competition and threading
@@ -37,17 +42,20 @@
 - Algorithms and complexity
 
 ## Programming fundamentals
+
 - Use of command line
 - Editors and IDEs
 - Syntax and control flow
 - Programming paradigms
 
 ## Design patterns and systems architecture
+
 - Concepts and types of patterns
 - Types of architecture
 - Systems modeling
 
 ## Automated tests
+
 - Test pyramid
 - Automation as an investment
 - Types of automated tests
@@ -56,6 +64,7 @@
 - BDD and Gherkin language
 
 ## CI/CD
+
 - Version strategy and technologies
 - Deploys, release and orchestration
 - Configuration and builds
@@ -65,6 +74,7 @@
 
 ## Soft skills and mindset of a QA
 ### Mistakes that QAs can make
+
 - Failures in the analysis of an occurrence
 - Fear of asking questions
 - Faulty and standardless automations
@@ -74,6 +84,7 @@
 - Not caring about technical development processes
 
 ## Thinking about the characteristics of the software
+
 1. Functionality
     - Are the features appropriate?
     - Were they implemented correctly?
