@@ -7,6 +7,7 @@
     - Application of specific quality processes
 
 ## Software quality attributes
+
 | Security | Understandability | Portability |
 |----------|-------------------|-------------|
 | Protection | Testability | Usability |
@@ -15,6 +16,7 @@
 | Robustness | Complexity | Learning capacity |
 
 ## How much is quality testing worth?
+
 | Period | Team without testing | Testing team |
 |---------|-------------------|-------------------|
 | Implementation | 7 days | 14 days |
@@ -24,6 +26,7 @@
 | Bugs found in production | 71 | 11 |
 
 ## The present and future of the quality area
+
 - User experience
     - Most demanding users
         - Performance
