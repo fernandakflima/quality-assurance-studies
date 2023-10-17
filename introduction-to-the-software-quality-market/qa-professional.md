@@ -1,4 +1,5 @@
 # Software quality in the world of engineering
+
 - Software Engineering (Present throughout the entire software production cycle)
     - Viable solutions
     - Technical processes
@@ -6,6 +7,7 @@
 - Software process (Specification, development, validation and evolution)
 
 ## Software Engineering X QA
+
 - Software engineering is different from coding
 
 - Basic types of software engineers:
@@ -25,11 +27,13 @@
 - Optimization of the work routine
 
 ## Roles
+
 - Function: Team or group of people and tools to carry out one or more processes and activities
 - Role: Set of responsibilities, activities and authorities defined in a process in a more specific way
 Position: Responsibility that the person assumes in relation to the company's process
 
 #### Function
+
 - Automated tests
 - Software defect management
 - Assistance to developers
@@ -38,6 +42,7 @@ Position: Responsibility that the person assumes in relation to the company's pr
 - Quality culture
 
 ## Positions X Responsibilities
+
 - For the same position, we may have different profiles and responsibilities:
     - Management
     - Analysis
@@ -49,21 +54,25 @@ Position: Responsibility that the person assumes in relation to the company's pr
 
 ## The role of certifications in a career as a QA
 #### ISTQB
+
 - International certification scheme for career development for those working in software testing
 - It began in 1998 with the launch of the Certified Tester Syllabus by ISEB (Information Systems Examinations Board)
 
 #### IBQTS
+
 - Brazilian Institute of Quality in Software Testing
 - Internationally recognized certifications for the area of ​​requirements engineering and test engineering
 - Founded in 2006
 - Officially recognized by IREB (International Requirements Engineering Board)
     
 ## Why get certifications?
+
 - International validation of skills in software testing
 - Creation and improvement of skills for career progression
 - Professional credibility
 
 ## ISTQB certification portfolio
+
 - Separation by levels
     - Foundation
     - Advanced
@@ -84,6 +93,7 @@ Position: Responsibility that the person assumes in relation to the company's pr
         - Knowledge clustering for application domains
 
 ## AWS certified and Microsoft certified
+
 - Cloud concepts
 - Description of services
 - Management tools and solutions
