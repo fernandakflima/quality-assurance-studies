@@ -5,10 +5,10 @@
 
 >We are discovering better ways to develop software, making it ourselves and helping others do the same. Through this work, we come to value:
 
->**Individuals and interactions** more than processes and tools
->**Working software** more than comprehensive documentation
->**Customer collaboration** more than contract negotiation
->**Respond to changes** more than following a plan
+**Individuals and interactions** more than processes and tools
+**Working software** more than comprehensive documentation
+**Customer collaboration** more than contract negotiation
+**Respond to changes** more than following a plan
 
 > In other words, even though there is value in the items on the right, we value the items on the left more.
 
