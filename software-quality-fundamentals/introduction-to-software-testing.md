@@ -1,13 +1,12 @@
-# Software Testing
-## Test: Concepts and Objectives
+# Test: Concepts and Objectives
 
-### What is testing?
+## What is testing?
 
 - Process of evaluating and reducing the risk of software failures in operation
 - It is part of quality control
 - The testing process is not just about the act of running a test
 
-### General objectives
+## General objectives
 
 - Avoid defects and evaluate work products
 - Check compliance with requirements
@@ -16,13 +15,13 @@
 - Risk reduction
 - Work with the client to make decisions
 
-### Testing VS Debugging
+## Testing VS Debugging
 
 - Running tests may show failures caused by software defects.
 - Debugging is already a process of investigating and correcting errors in the code development process
 - These activities vary according to the methodology used in the team
 
-### Testing principles
+## Testing principles
 
 1. Testing shows the presence of defects and not their absence
 2. Exhaustive testing is impossible
@@ -32,8 +31,8 @@
 6. Testing depends on context
 7. The absence of errors is an illusion
 
-## The testing process
-### Influencing factors
+# The testing process
+## Influencing factors
 
 - Lifecycle model
 - Test levels and types
@@ -43,7 +42,7 @@
 - Organizational policies and practices
 - Internal and external standards
 
-### Testing activities
+## Testing activities
 
 1. Test planning
 2. Test monitoring and control
@@ -53,7 +52,7 @@
 6. Test execution
 7. Test completion
 
-#### Test planning
+### Test planning
 
 - Define test purposes
 - Define the testing approach according to context constraints
@@ -71,12 +70,12 @@
 - Regression: avoid regression of existing features
 - Reactive: is reactive to the component or system and the events that occur during execution
 
-#### Test monitoring and control
+### Test monitoring and control
 
 - Continuous comparison of actual progress with the test plan based on output evaluation criteria... in other words, the 'done'!
 - Use of progress reports
 
-#### Test analysis
+### Test analysis
 
 - Test base is analyzed in order to analyze "what to test" according to pre-established criteria
 
@@ -87,21 +86,21 @@
 - Evaluate the types of defects that can be found
 - Define and prioritize test conditions
 
-#### Test modeling
+### Test modeling
 
 - Answers the question "how to test?"
 - Test conditions are elaborated into high-level test cases
 - Prioritization of test cases and sets of test cases
 - Verify necessary infrastructure and design test environment
 
-#### Test implementation
+### Test implementation
 
 - Develop and prioritize automated testing procedures and possibly scripting
 - Create test suites
 - Logical and efficient organization of test execution
 - Prepare test data
 
-#### Test execution
+### Test execution
 
 - Test suites are executed as planned, whether manually or automated
 - Compare actual results with expected results
@@ -109,15 +108,15 @@
 - Report and record these anomalies
 - Retest
 
-#### Test completion
+### Test completion
 
 - Collect data from testing activities already completed in order to review and consolidate experience
 - Create test summary report
 - Finalize and archive test data and records
 - Improve maturity of the testing process
 
-## Test levels
-### What would these levels be?
+# Test levels
+## What would these levels be?
 
 These are groups of testing activities that are organized and managed together with respect to the level of development
 
@@ -126,7 +125,7 @@ These are groups of testing activities that are organized and managed together w
 - System testing
 - Acceptance test
 
-#### Component or unit testing
+### Component or unit testing
 
 Focus on testing code components independently
 
@@ -138,7 +137,7 @@ Focus on testing code components independently
 - Find defects
 - Prevent defects from being reflected in higher levels of testing
 
-#### Integration tests
+### Integration tests
 
 Focus on integration between components or systems communication
 
@@ -148,7 +147,7 @@ Focus on integration between components or systems communication
 - Check interfaces
 - Find defects in the parties involved that are reflected in higher levels of testing
 
-#### System testing
+### System testing
 
 Focus on end-to-end system requirements
 
@@ -159,7 +158,7 @@ Focus on end-to-end system requirements
 - Find defects not seen at lower levels
 - Prevent defects from being reflected in production after customer acceptance
 
-#### Acceptance tests
+### Acceptance tests
 
 Focus on end-to-end system requirements from a validation and compliance standpoint with business rules and customer needs
 
@@ -170,8 +169,7 @@ Focus on end-to-end system requirements from a validation and compliance standpo
 - Find defects not seen at lower levels
 - Prevent defects from being reflected in production after customer acceptance
 
-## Test types
-### Test types and objectives
+# Test types and objectives
 
 Group of testing activities designed to verify specific characteristics of a system, based on specific objectives.
 
@@ -180,19 +178,19 @@ Group of testing activities designed to verify specific characteristics of a sys
 - Evaluate component/system structure or architecture
 - Evaluate effects of changes in other parts of the code
 
-#### Functional test
+## Functional test
 
 - Assessment of functions that the system must perform
 - Developed from requirements specifications, user stories, use cases
 - Functional tests can be performed at all test levels
 - Black box techniques are very useful for evaluating the system's functional behaviors
 
-#### Non-functional testing
+## Non-functional testing
 
 - Assessment of non-functional characteristics such as usability, performance efficiency, security, etc…
 - Can also be taken at all test levels
 
-#### White-box testing
+## White-box testing
 
 - Focus on testing based on the internal structure of the system
 
@@ -202,13 +200,12 @@ Group of testing activities designed to verify specific characteristics of a sys
 
 - Code coverage with unit or integration tests
 
-#### Change testing
+### Change testing
 
 - Confirmation test: Verification after defect is corrected
 - Regression testing: Checking side effects when changing a system component
 
-## Testing techniques
-### Objectives of the techniques
+# Objectives of the techniques
 
 - Assistance in identifying test conditions, cases and their data
 
@@ -218,7 +215,7 @@ Group of testing activities designed to verify specific characteristics of a sys
 - White box
 - From experience
 
-#### Black box techniques
+## Black box techniques
 
 - Based on requirements documents, use cases, user stories, etc…
 - Are applicable for functional or non-functional tests
@@ -230,7 +227,7 @@ Group of testing activities designed to verify specific characteristics of a sys
 4. State transition
 5. Use case
 
-##### Equivalence partitioning
+### Equivalence partitioning
 
 - Divides data into partitions or equivalence classes that are processed in the same way, in valid and invalid formats.
 
@@ -250,7 +247,7 @@ Group of testing activities designed to verify specific characteristics of a sys
 | 40 - 100 | |
 | | 100 > |
 
-##### Limit value analysis
+### Limit value analysis
 
 - Extends equivalence partitioning when the partition is sorted and we can analyze the minimum and maximum value
 
@@ -271,7 +268,7 @@ Group of testing activities designed to verify specific characteristics of a sys
 | | 0 < |
 | | 100.000 > |
 
-##### Decision table
+### Decision table
 
 - Useful for testing requirements that specify conditions that combine with different results
 
@@ -282,7 +279,7 @@ Group of testing activities designed to verify specific characteristics of a sys
 | Amount requested is <= balance | X | X | No | Yes |
 | Expected output | Invalid card | Invalid password | Insufficient balance | Withdrawal made successfully |
 
-##### State transition
+### State transition
 
 Situations in which the system reacts differently to an event depending on current conditions or a history, which can be summarized as states
 
@@ -297,13 +294,13 @@ Situations in which the system reacts differently to an event depending on curre
 | S5) Access granted | - | - |
 | S6) Account blocked | - |- |
 
-##### Use case testing
+### Use case testing
 
 - Naturally derived from use cases
 - Associate actions with the actors in the case
 - Design tests for basic, alternative and error cases
 
-#### White-box techniques
+## White-box techniques
 
 - Based on the internal structure of the test object
 - Can be used at all test levels
@@ -312,7 +309,7 @@ Situations in which the system reacts differently to an event depending on curre
 1. Instruction Coverage
 2. Decision coverage
 
-##### Instruction Coverage Test
+### Instruction Coverage Test
 
 - Tests executable code instructions
 - Coverage measured as (number of instructions executed)/(total instructions)
@@ -320,7 +317,7 @@ Situations in which the system reacts differently to an event depending on curre
 - Coverage = number of decision results executed/ total decision results in the object
 = 100% decision coverage –> 100% statement coverage
 
-#### Techniques based on experience
+## Techniques based on experience
 
 - Based on experience and intuition of those who test
 - Situations not found in more systematic methods can be identified
