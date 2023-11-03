@@ -138,3 +138,5 @@ It's like a script.
     - Continuous usage monitoring
     - Support
     - Reports for defects and changes
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/agile-methodologies-and-software-development-cycle/agile-development.md)
