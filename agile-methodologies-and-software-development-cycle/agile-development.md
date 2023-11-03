@@ -41,3 +41,5 @@
 - Difficult to predict customer prioritization
 - Analysis, design and testing are not predictable
 - Software construction activities are not easily estimated
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/agile-methodologies-and-software-development-cycle/extreme-programming.md)
