@@ -214,3 +214,5 @@ Dynamic (DSDM)
     - Done
 - It is simple and should be combined with other frameworks for managing the
 project
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/agile-methodologies-and-software-development-cycle/testing-in-the-agile-world.md)
