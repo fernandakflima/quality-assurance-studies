@@ -107,3 +107,5 @@
 
 - CTFL-AT Agile Tester
 - CTFL-ATT Agile Technical Tester
+
+Material [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/agile-methodologies-and-software-development-cycle/material.md)
