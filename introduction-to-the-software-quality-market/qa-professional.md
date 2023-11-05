@@ -98,3 +98,5 @@ Position: Responsibility that the person assumes in relation to the company's pr
 - Description of services
 - Management tools and solutions
 - Descriptions of costs, SLA, security, privacy...
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/roadmap.md)
