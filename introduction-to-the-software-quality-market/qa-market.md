@@ -43,3 +43,5 @@
 - Focus on security
 
 - Use of agile and DevOps methodologies
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/qa-professional.md)
