@@ -206,3 +206,5 @@ Documents published by professional organizations that aim to standardize certai
 5. Change control
 6. Measurement
 7. Record keeping and reports
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/defect-management.md)
