@@ -326,3 +326,5 @@ Situations in which the system reacts differently to an event depending on curre
 1. Error Assumption
 2. Exploratory testing
 3. Checklist-based
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/material.md)
