@@ -17,3 +17,5 @@
 [Everything you should know about QA in software development: The beginner’s guide](https://medium.com/@concisesoftware/everything-you-should-know-about-qa-in-software-development-the-beginners-guide-3e7afacf607c)
 
 [Quality Assurance e sua importância no desenvolvimento de software](https://www.treinaweb.com.br/blog/quality-assurance-qa-e-sua-importancia-no-desenvolvimento-de-software)
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/what-is-software-quality.md)
