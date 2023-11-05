@@ -111,3 +111,5 @@
 6. Portability
     - Does the system adapt to changes in the environment?
     - How difficult is it to migrate a system component?
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/material.md)
