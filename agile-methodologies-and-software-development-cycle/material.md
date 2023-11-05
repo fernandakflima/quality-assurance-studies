@@ -20,3 +20,5 @@
 [BDD](https://coodesh.com/blog/candidates/metodologias/bdd-na-pratica-entenda-o-que-e-e-como-funciona/)
 
 [Cultura DevOps](https://www.profissionaisti.com.br/cultura-devops/)
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/qa-market.md)
