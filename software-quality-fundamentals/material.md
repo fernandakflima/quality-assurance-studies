@@ -4,3 +4,4 @@
 
 [IEEE Standar (2014)](https://docs.google.com/presentation/d/1lf5Z39hwxqIa-WGLAxkcuJTpEjO-TfDz/edit#slide=id.g1173d35a580_0_5)
 
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/the-path-to-CTFL-certification/getting-to-know-ISTQB-and-BSTQB.md)
