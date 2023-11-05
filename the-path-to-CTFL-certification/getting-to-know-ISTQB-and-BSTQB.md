@@ -14,3 +14,4 @@
 - Focus on Software Testing and Requirements Engineering
 - Translation and management of the body of knowledge and carrying out official exams
 
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/the-path-to-CTFL-certification/structure-for-approval-at-CTFL.md)

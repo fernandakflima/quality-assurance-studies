@@ -83,3 +83,5 @@ Number of questions per chapter
 - Understand the value of software testing for stakeholders
 - Understand how testing activities align with project objectives
 - Provide support in the selection and use process of testing tools.
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/the-path-to-CTFL-certification/concepts-for-CTFL.md)

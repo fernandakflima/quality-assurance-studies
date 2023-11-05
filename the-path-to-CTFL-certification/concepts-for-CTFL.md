@@ -128,3 +128,5 @@
 | | | Performance Testing |
 | | | Usability Testing |
 | | | CTFL - Agile Testing |
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/the-path-to-CTFL-certification/material.md)
