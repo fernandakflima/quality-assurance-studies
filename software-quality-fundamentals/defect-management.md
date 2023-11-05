@@ -116,3 +116,5 @@
 [Cobertura de código explicada](https://oieduardorabelo.medium.com/cobertura-de-c%C3%B3digo-explicada-ba1516db7dbd)
 
 [Martin Fowler](https://martinfowler.com/)
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/introduction-to-software-testing.md)
