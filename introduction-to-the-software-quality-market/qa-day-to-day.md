@@ -144,3 +144,5 @@ It may be useful for:
 - Test plan
 - Test scenarios
 - Any context that requires the construction of ideas!
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/material.md)
