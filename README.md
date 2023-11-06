@@ -19,6 +19,7 @@ I also made research sources and some more links available.
 | [Introduction to the Software Quality Market](https://github.com/fernandakflima/quality-assurance-studies/tree/main/introduction-to-the-software-quality-market) | [Quality Assurance -  Market](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/qa-market.md) |
 | | [Quality Assurance - Professional](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/qa-professional.md) |
 | | [Quality Assurance - Roadmap](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/roadmap.md) |
+| | [Quality Assurance -  Day to day](https://github.com/fernandakflima/quality-assurance-studies/blob/main/introduction-to-the-software-quality-market/qa-day-to-day.md) |
 | [Software Quality Fundamentals](https://github.com/fernandakflima/quality-assurance-studies/tree/main/software-quality-fundamentals) | [What is Software Quality](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/what-is-software-quality.md) | 
 | | [Defect Management](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/defect-management.md) |
 | | [Introduction to Software Testing](https://github.com/fernandakflima/quality-assurance-studies/blob/main/software-quality-fundamentals/introduction-to-software-testing.md) |
