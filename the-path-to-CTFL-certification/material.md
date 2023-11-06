@@ -9,3 +9,5 @@
 [Revisão técnica](https://acervolima.com/revisao-tecnica-formal-ftr-em-engenharia-de-software/)
 
 [Aprendendo a testar](http://www.aprendendotestar.com.br/ferramentas)
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/test-automation-fundamentals/fundamentals-for-automation-projects.md)

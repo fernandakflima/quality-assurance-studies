@@ -1,0 +1,1 @@
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/test-automation-fundamentals/generic-architecture-and-design-for-automation.md)
