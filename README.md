@@ -29,3 +29,6 @@ I also made research sources and some more links available.
 | [Test Automation Fundamentals](https://github.com/fernandakflima/quality-assurance-studies/tree/main/test-automation-fundamentals) | [Fundamentals for Automation Projects](https://github.com/fernandakflima/quality-assurance-studies/blob/main/test-automation-fundamentals/fundamentals-for-automation-projects.md) |
 | | [Generic Architecture and Design for Automation](https://github.com/fernandakflima/quality-assurance-studies/blob/main/test-automation-fundamentals/generic-architecture-and-design-for-automation.md) |
 | | [Design Patterns for E2E Testing](https://github.com/fernandakflima/quality-assurance-studies/blob/main/test-automation-fundamentals/design-patterns-for-E2E-testing.md) |
+| [API Tests](https://github.com/fernandakflima/quality-assurance-studies/tree/main/api-tests) | [The API in the world of Software Quality](https://github.com/fernandakflima/quality-assurance-studies/blob/main/api-tests/the-api-in-the-world-of-software-quality.md) |
+| | [Manual and Automated testing with Postman](https://github.com/fernandakflima/quality-assurance-studies/blob/main/api-tests/manual-and-automated-testing-with-postman.md) |
+| | [Automated testing with Rest Assured](https://github.com/fernandakflima/quality-assurance-studies/blob/main/api-tests/automated-testing-with-rest-assured.md) |
