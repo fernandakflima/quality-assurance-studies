@@ -1,6 +1,4 @@
-# Reviewing concepts related to APIs
-
-## What is API?
+# What is API?
 
 Application Programming Interface
 
