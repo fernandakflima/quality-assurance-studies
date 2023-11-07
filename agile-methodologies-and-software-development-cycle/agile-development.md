@@ -1,5 +1,4 @@
-# The agile manifesto
-## What does the manifesto say?
+# The agile manifesto - What does the manifesto say?
 
 >We are discovering better ways to develop software, making it ourselves and helping others do the same. Through this work, we come to value:
 >
