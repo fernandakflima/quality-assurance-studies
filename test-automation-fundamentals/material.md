@@ -13,3 +13,5 @@
 [Application Actions: Use Them Instead of Page Objects](https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions#page-objects-in-cypress)
 
 [Page objects VS App actions in Cypress](https://applitools.com/blog/page-objects-app-actions-cypress/)
+
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/api-tests/the-api-in-the-world-of-software-quality.md)

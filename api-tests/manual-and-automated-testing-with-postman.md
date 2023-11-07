@@ -1,0 +1,1 @@
+Next note [here](https://github.com/fernandakflima/quality-assurance-studies/blob/main/api-tests/automated-testing-with-rest-assured.md)
