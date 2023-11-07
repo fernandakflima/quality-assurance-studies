@@ -65,7 +65,7 @@ Architectural style with restrictions for creating applications under the HTTP p
 
 **Can return messages in different formats:**
 
--HTML
+- HTML
 - XML
 - text
 -JSON
